@@ -23,4 +23,3 @@ for file in files:
         print(f"Moved '{file}' → Images/")
 
 print("\nDone! Files have been organized.")
-```
