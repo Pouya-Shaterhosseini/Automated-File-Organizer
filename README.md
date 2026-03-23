@@ -1,4 +1,3 @@
-```markdown
 # Automated-File-Organizer
 A Python utility script that automates the organization of cluttered folders. It scans a directory and sorts files into specific subfolders based on their file extensions.
 
